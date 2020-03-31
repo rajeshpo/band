@@ -1,3 +1,5 @@
+
+alert("Hey hiii, this is Rajesh made some cool stuff for you. Click OK");
 var numberOfDrumButtons = document.querySelectorAll(".drum").length;
 
 for (var i = 0; i < numberOfDrumButtons; i++) {
